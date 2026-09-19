@@ -1,2 +1,2 @@
-# digital-payment-anomaly-detection
-Building a statistical anomaly detection model using R to identify fraudulent digital payment transactions.
+# digital-payment-fraud-classification
+Building a statistical fraud classification model using R to identify fraudulent digital payment transactions.
